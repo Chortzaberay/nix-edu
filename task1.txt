@@ -1,0 +1,14 @@
+
+1. uniq test.txt 
+
+2. cat test1.txt >> test2.txt 
+
+3. split -l 100 test.txt
+
+4. head -n 30 test.txt
+
+5. tail -n 30 test.txt
+
+6. grep "START" test.txt
+
+7. grep -r "test" 
